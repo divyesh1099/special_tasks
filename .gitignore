@@ -92,3 +92,6 @@ dist/
 # Temporary folders
 tmp/
 temp/
+
+# VAPID Keys Secret for Notifications. 
+VAPIDKeys.js
